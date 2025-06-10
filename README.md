@@ -40,3 +40,23 @@ The chatbot was developed to assist users with basic healthcare advice and reduc
 
 ---
 
+✅ Results
+
+Achieved high relevance and accuracy using RAG + Pinecone
+
+Improved chatbot reliability by reducing hallucinations
+
+Successfully handled both common and complex health queries
+
+Demonstrated a real-world application of AI in the healthcare domain
+
+
+
+---
+
+
+📬 Contact
+
+Sarath Chandra 
+Email: sarathpandi020@gmail.com
+
